@@ -1,0 +1,14 @@
+data/
+results/
+results_v2/
+runs/
+runs_v2/
+logs*/
+figures*/
+.venv/
+*.log
+*.npz
+*.npy
+*.jsonl
+__pycache__/
+.DS_Store
